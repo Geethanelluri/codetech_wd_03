@@ -1,0 +1,1 @@
+This project implements an Image Classification Model using Convolutional Neural Networks (CNNs) to classify images into predefined categories. The model is built using TensorFlow or PyTorch. The objective is to create a functional model, evaluate its performance, and demonstrate how CNNs can be used for image classification tasks.
