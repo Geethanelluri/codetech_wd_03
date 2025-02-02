@@ -1,1 +1,10 @@
-This project implements an Image Classification Model using Convolutional Neural Networks (CNNs) to classify images into predefined categories. The model is built using TensorFlow or PyTorch. The objective is to create a functional model, evaluate its performance, and demonstrate how CNNs can be used for image classification tasks.
+COMPANY: CODTECH IT SOLUTIONS
+NAME: Nelluri Geetha
+INTERN ID: CT12JIR
+DONAIN: MACHINELEARNING
+
+DURATION: 8 WEEEKS
+
+MENTOR: NEELA SANTOSH
+#output: 
+[Image](https://github.com/user-attachments/assets/a3af9f8f-ec59-4c21-9482-4da696761354)
